@@ -1,0 +1,6 @@
+# Todos los videos
+Lab1 - Git/videos/
+
+# Todos los archivos de texto menos el 171.txt
+Lab1 - Git/texts/*.txt
+!Lab1 - Git/texts/171.txt
