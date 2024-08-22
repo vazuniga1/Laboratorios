@@ -3,4 +3,4 @@ videos/
 
 # Todos los archivos de texto menos el 171.txt
 texts/*.txt
-texts/171.txt
+!texts/171.txt
